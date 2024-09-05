@@ -2,9 +2,9 @@
 
 ## Seiten
 
-- Allgemein
+- Start
   - Vorstellung
   - Treffen
+  - Kontakt
 - Impressum
 - Datenschutzerklärung
-- Kontakt

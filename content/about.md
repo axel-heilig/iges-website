@@ -1,0 +1,4 @@
+# IGES e.V. Website
+
+## Über uns
+Wir sind ein kleiner Verein von Eisenbahnfreunden die sich der Beschäftigung mit Themen rund um die große und kleine Bahn auf die Fahne geschrieben haben. Dazu machen wir Exkursionen zu interessanten Punkten der großen Bahn (Baustelle Stuttgart 21, Lehrstellwerk Calw) und der kleinen Bahn (Faszination Modellbau Friedrichshafen, andere Vereine). Gegründet haben wir uns am 02.02.2022, wir sind also noch sehr jung und in der Findungsphase. In Ermangelung eigener Räumlichkeiten treffen wir uns derzeit in der Donaueschinger Gastronomie oder bei Mitfleidern Zuhause. Falls Sie Interesse an uns gefunden haben, nehmen Sie doch einfach Kontakt zu uns auf, wir geben teilen dann gerne Informationen zum nächsten Treffen mit Ihnen.
